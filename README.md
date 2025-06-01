@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Vinícius Candido
 
-<!--
-**Ovini8894/Ovini8894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação, apaixonado por tecnologia e atualmente me desenvolvendo na área de desenvolvimento web. Estou aprendendo **HTML, CSS, JavaScript e lógica de programação**, com foco em me tornar um **Desenvolvedor Full Stack**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias em aprendizado:
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos:
+- 📚 Aprofundar meus conhecimentos em desenvolvimento web
+- 🚀 Me tornar um desenvolvedor full stack
+- 💼 Conseguir minha primeira oportunidade na área de tecnologia
+
+## 📫 Contato:
+- ✉️ viniciuscandido375@gmail.com
+- 📍 Uberaba – MG, Brasil
+- 🔗 (Em breve LinkedIn)
