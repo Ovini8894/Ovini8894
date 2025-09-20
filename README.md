@@ -5,7 +5,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-Sou estudante de programação, apaixonado por tecnologia e atualmente me desenvolvendo na área de desenvolvimento web. Estou aprendendo **HTML, CSS e JavaScript** , com foco em me tornar um **Desenvolvedor Full Stack**.
+Sou estudante de programação, apaixonado por tecnologia e atualmente me desenvolvendo na área de desenvolvimento web. Estou aprendendo **HTML, CSS e JavaScript**, com foco em me tornar um **Desenvolvedor Full Stack**.
 
 ## 🚀 Tecnologias em aprendizado:
 - HTML
