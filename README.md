@@ -21,4 +21,4 @@ Sou estudante de programação, apaixonado por tecnologia e atualmente me desenv
 ## 📫 Contato:
 - ✉️ viniciuscandido375@gmail.com
 - 📍 Uberaba – MG, Brasil
-- 🔗 (Em breve LinkedIn)
+- 🔗 https://www.linkedin.com/in/viniciuscandido375/
